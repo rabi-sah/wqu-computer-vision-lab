@@ -1,0 +1,50 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Datasets
+data/
+datasets/
+**/data/
+**/datasets/
+*.csv
+*.zip
+*.parquet
+*.sqlite
+*.db
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.h5
+*.onnx
+*.pkl
+*.joblib
+*.ckpt
+*.safetensors
+
+# Generated outputs and logs
+outputs/
+logs/
+runs/
+checkpoints/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

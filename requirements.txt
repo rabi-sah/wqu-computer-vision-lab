@@ -1,0 +1,31 @@
+# Core deep learning
+torch==2.3.1
+torchvision==0.18.1
+
+# Data handling
+numpy==1.26.4
+pandas==2.2.2
+pillow==10.3.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# ML utilities / metrics
+scikit-learn==1.4.2
+
+# Config management
+pyyaml==6.0.1
+
+# Progress bars / logging
+tqdm==4.66.4
+
+# Notebook support
+jupyter==1.0.0
+ipykernel==6.29.4
+
+# Image augmentation
+albumentations==1.4.7
+
+# Object detection support
+opencv-python==4.10.0.82
